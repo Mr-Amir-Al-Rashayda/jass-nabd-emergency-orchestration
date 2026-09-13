@@ -6,8 +6,8 @@ Jass Nabd protects an enrolled emergency responder’s command-application link 
 
 ## Working prototype
 
-- [Open the live demo](https://jass-nabd-command.amir-alrashyda.chatgpt.site/)
-- [Watch the 1080p demonstration](https://jass-nabd-command.amir-alrashyda.chatgpt.site/Jass-Nabd-Live-Prototype-Demo-FINAL.mp4)
+- [Open the live demo](https://jass-nabd-command.amir-alrashyda.workers.dev/)
+- [Watch the 1080p demonstration](https://youtu.be/ezIUkvHa_ow)
 
 ## APIs demonstrated
 
